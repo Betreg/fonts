@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'arial-narrow';
-  src: url('./arialnarrow.woff2') format('woff2'),
-       url('./arialnarrow.woff') format('woff'),
-       url('./arialnarrow.ttf') format('truetype');
+  src: url('../fonts/arial-narrow/arialnarrow.woff2') format('woff2'),
+       url('../fonts/arial-narrow/arialnarrow.woff') format('woff'),
+       url('../fonts/arial-narrow/arialnarrow.ttf') format('truetype');
   font-weight: 400;
   font-display: swap;
   font-style: normal;
@@ -10,9 +10,9 @@
 
 @font-face {
   font-family: 'arial-narrow';
-  src: url('./arialnarrow_bold.woff2') format('woff2'),
-       url('./arialnarrow_bold.woff') format('woff'),
-       url('./arialnarrow_bold.ttf') format('truetype');
+  src: url('../fonts/arial-narrow/arialnarrow_bold.woff2') format('woff2'),
+       url('../fonts/arial-narrow/arialnarrow_bold.woff') format('woff'),
+       url('../fonts/arial-narrow/arialnarrow_bold.ttf') format('truetype');
   font-weight: 700;
   font-display: swap;
   font-style: normal;
@@ -20,9 +20,9 @@
 
 @font-face {
   font-family: 'arial-narrow';
-  src: url('./arialnarrow_bolditalic.woff2') format('woff2'),
-       url('./arialnarrow_bolditalic.woff') format('woff'),
-       url('./arialnarrow_bolditalic.ttf') format('truetype');
+  src: url('../fonts/arial-narrow/arialnarrow_bolditalic.woff2') format('woff2'),
+       url('../fonts/arial-narrow/arialnarrow_bolditalic.woff') format('woff'),
+       url('../fonts/arial-narrow/arialnarrow_bolditalic.ttf') format('truetype');
   font-weight: 700;
   font-display: swap;
   font-style: italic;
@@ -30,9 +30,9 @@
 
 @font-face {
   font-family: 'arial-narrow';
-  src: url('./arialnarrow_italic.woff2') format('woff2'),
-       url('./arialnarrow_italic.woff') format('woff'),
-       url('./arialnarrow_italic.ttf') format('truetype');
+  src: url('../fonts/arial-narrow/arialnarrow_italic.woff2') format('woff2'),
+       url('../fonts/arial-narrow/arialnarrow_italic.woff') format('woff'),
+       url('../fonts/arial-narrow/arialnarrow_italic.ttf') format('truetype');
   font-weight: 400;
   font-display: swap;
   font-style: italic;

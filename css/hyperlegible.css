@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'hyperlegible';
-  src: url('./HyperlegibleSans-Bold.woff2') format('woff2'),
-       url('./HyperlegibleSans-Bold.woff') format('woff');
+  src: url('../fonts/hyperlegible/HyperlegibleSans-Bold.woff2') format('woff2'),
+       url('../fonts/hyperlegible/HyperlegibleSans-Bold.woff') format('woff');
   font-weight: 700;
   font-display: swap;
   font-style: normal;
@@ -9,8 +9,8 @@
 
 @font-face {
   font-family: 'hyperlegible';
-  src: url('./HyperlegibleSans-BoldItalic.woff2') format('woff2'),
-       url('./HyperlegibleSans-BoldItalic.woff') format('woff');
+  src: url('../fonts/hyperlegible/HyperlegibleSans-BoldItalic.woff2') format('woff2'),
+       url('../fonts/hyperlegible/HyperlegibleSans-BoldItalic.woff') format('woff');
   font-weight: 700;
   font-display: swap;
   font-style: italic;
@@ -18,8 +18,8 @@
 
 @font-face {
   font-family: 'hyperlegible';
-  src: url('./HyperlegibleSans-Italic.woff2') format('woff2'),
-       url('./HyperlegibleSans-Italic.woff') format('woff');
+  src: url('../fonts/hyperlegible/HyperlegibleSans-Italic.woff2') format('woff2'),
+       url('../fonts/hyperlegible/HyperlegibleSans-Italic.woff') format('woff');
   font-weight: 400;
   font-display: swap;
   font-style: italic;
@@ -27,8 +27,8 @@
 
 @font-face {
   font-family: 'hyperlegible';
-  src: url('./HyperlegibleSans-Medium.woff2') format('woff2'),
-       url('./HyperlegibleSans-Medium.woff') format('woff');
+  src: url('../fonts/hyperlegible/HyperlegibleSans-Medium.woff2') format('woff2'),
+       url('../fonts/hyperlegible/HyperlegibleSans-Medium.woff') format('woff');
   font-weight: 500;
   font-display: swap;
   font-style: normal;
@@ -36,8 +36,8 @@
 
 @font-face {
   font-family: 'hyperlegible';
-  src: url('./HyperlegibleSans-MediumItalic.woff2') format('woff2'),
-       url('./HyperlegibleSans-MediumItalic.woff') format('woff');
+  src: url('../fonts/hyperlegible/HyperlegibleSans-MediumItalic.woff2') format('woff2'),
+       url('../fonts/hyperlegible/HyperlegibleSans-MediumItalic.woff') format('woff');
   font-weight: 500;
   font-display: swap;
   font-style: italic;
@@ -45,8 +45,8 @@
 
 @font-face {
   font-family: 'hyperlegible';
-  src: url('./HyperlegibleSans-Regular.woff2') format('woff2'),
-       url('./HyperlegibleSans-Regular.woff') format('woff');
+  src: url('../fonts/hyperlegible/HyperlegibleSans-Regular.woff2') format('woff2'),
+       url('../fonts/hyperlegible/HyperlegibleSans-Regular.woff') format('woff');
   font-weight: 400;
   font-display: swap;
   font-style: normal;
